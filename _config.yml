@@ -12,5 +12,9 @@ color:
     - '#F4F7D9'
 layout_spectrum: 0.5398103082552552
 name: Holistic Formation
+navigation:
+  - name: SOULeader
+    url: 'http://www.souleader.com'
+    type: external
 title: Transforming your life
 description: from FRAGMENTATION to WHOLENESS
